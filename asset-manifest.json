@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Route-Tech-Summit-2024/static/css/main.62f3ae40.css",
-    "main.js": "/Route-Tech-Summit-2024/static/js/main.eac68736.js",
+    "main.js": "/Route-Tech-Summit-2024/static/js/main.8f37d3ed.js",
     "static/js/453.2fff54d6.chunk.js": "/Route-Tech-Summit-2024/static/js/453.2fff54d6.chunk.js",
     "static/media/route.jpg": "/Route-Tech-Summit-2024/static/media/route.e9b273d664b593ed3417.jpg",
     "index.html": "/Route-Tech-Summit-2024/index.html",
     "main.62f3ae40.css.map": "/Route-Tech-Summit-2024/static/css/main.62f3ae40.css.map",
-    "main.eac68736.js.map": "/Route-Tech-Summit-2024/static/js/main.eac68736.js.map",
+    "main.8f37d3ed.js.map": "/Route-Tech-Summit-2024/static/js/main.8f37d3ed.js.map",
     "453.2fff54d6.chunk.js.map": "/Route-Tech-Summit-2024/static/js/453.2fff54d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62f3ae40.css",
-    "static/js/main.eac68736.js"
+    "static/js/main.8f37d3ed.js"
   ]
 }
