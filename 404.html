@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Page Not Found</title>
+    <meta http-equiv="refresh" content="0; URL=/#/" />
+    <script>
+      (function () {
+        var redirect = sessionStorage.getItem("redirect");
+        sessionStorage.removeItem("redirect");
+        if (redirect) {
+          window.location.replace(redirect);
+        }
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>
